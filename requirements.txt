@@ -1,0 +1,4 @@
+pandas
+scikit-surprise
+numpy==1.26.4
+tkintertable
